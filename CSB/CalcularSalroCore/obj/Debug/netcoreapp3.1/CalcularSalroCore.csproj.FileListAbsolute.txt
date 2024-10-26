@@ -1,0 +1,13 @@
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CalcularSalroCore\bin\Debug\netcoreapp3.1\CalcularSalroCore.exe
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CalcularSalroCore\bin\Debug\netcoreapp3.1\CalcularSalroCore.deps.json
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CalcularSalroCore\bin\Debug\netcoreapp3.1\CalcularSalroCore.runtimeconfig.json
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CalcularSalroCore\bin\Debug\netcoreapp3.1\CalcularSalroCore.runtimeconfig.dev.json
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CalcularSalroCore\bin\Debug\netcoreapp3.1\CalcularSalroCore.dll
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CalcularSalroCore\bin\Debug\netcoreapp3.1\CalcularSalroCore.pdb
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CalcularSalroCore\obj\Debug\netcoreapp3.1\CalcularSalroCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CalcularSalroCore\obj\Debug\netcoreapp3.1\CalcularSalroCore.AssemblyInfoInputs.cache
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CalcularSalroCore\obj\Debug\netcoreapp3.1\CalcularSalroCore.AssemblyInfo.cs
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CalcularSalroCore\obj\Debug\netcoreapp3.1\CalcularSalroCore.csproj.CoreCompileInputs.cache
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CalcularSalroCore\obj\Debug\netcoreapp3.1\CalcularSalroCore.dll
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CalcularSalroCore\obj\Debug\netcoreapp3.1\CalcularSalroCore.pdb
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CalcularSalroCore\obj\Debug\netcoreapp3.1\CalcularSalroCore.genruntimeconfig.cache

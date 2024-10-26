@@ -1,0 +1,14 @@
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0\CacularSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0\CacularSalario.AssemblyInfoInputs.cache
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0\CacularSalario.AssemblyInfo.cs
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0\CacularSalario.csproj.CoreCompileInputs.cache
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\bin\Debug\net8.0\CacularSalario.exe
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\bin\Debug\net8.0\CacularSalario.deps.json
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\bin\Debug\net8.0\CacularSalario.runtimeconfig.json
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\bin\Debug\net8.0\CacularSalario.dll
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\bin\Debug\net8.0\CacularSalario.pdb
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0\CacularSalario.dll
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0\refint\CacularSalario.dll
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0\CacularSalario.pdb
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0\CacularSalario.genruntimeconfig.cache
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0\ref\CacularSalario.dll

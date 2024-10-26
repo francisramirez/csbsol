@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Francis Ramirez\\source\\repos\\csbsol\\CSB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4F77C1-B415-4095-8014-CD85E3B80012}|CacularSalario\\CacularSalario.csproj|c:\\users\\francis ramirez\\source\\repos\\csbsol\\csb\\cacularsalario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4F77C1-B415-4095-8014-CD85E3B80012}|CacularSalario\\CacularSalario.csproj|solutionrelative:cacularsalario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6727B9-81F9-4B90-A6EF-936C1975CE52}|CalcularSalroCore\\CalcularSalroCore.csproj|c:\\users\\francis ramirez\\source\\repos\\csbsol\\csb\\calcularsalrocore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6727B9-81F9-4B90-A6EF-936C1975CE52}|CalcularSalroCore\\CalcularSalroCore.csproj|solutionrelative:calcularsalrocore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Francis Ramirez\\source\\repos\\csbsol\\CSB\\CalcularSalroCore\\Program.cs",
+              "RelativeDocumentMoniker": "CalcularSalroCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Francis Ramirez\\source\\repos\\csbsol\\CSB\\CalcularSalroCore\\Program.cs",
+              "RelativeToolTip": "CalcularSalroCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:18:41.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Francis Ramirez\\source\\repos\\csbsol\\CSB\\CacularSalario\\Program.cs",
+              "RelativeDocumentMoniker": "CacularSalario\\Program.cs",
+              "ToolTip": "C:\\Users\\Francis Ramirez\\source\\repos\\csbsol\\CSB\\CacularSalario\\Program.cs",
+              "RelativeToolTip": "CacularSalario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:46:54.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
