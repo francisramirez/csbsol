@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CacularSalario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34ccfb6c3bbdfbe342fefe486ee721a780deec9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CacularSalario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CacularSalario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

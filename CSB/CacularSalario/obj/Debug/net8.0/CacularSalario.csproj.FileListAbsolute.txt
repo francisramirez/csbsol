@@ -12,3 +12,4 @@ C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0
 C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0\CacularSalario.pdb
 C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0\CacularSalario.genruntimeconfig.cache
 C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0\ref\CacularSalario.dll
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\CacularSalario\obj\Debug\net8.0\CacularSalario.sourcelink.json
