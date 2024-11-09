@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Francis Ramirez\\source\\repos\\csbsol\\CSB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{77C4F698-5C95-492A-88ED-1DAD8A2A0387}|Bucles\\Bucles.csproj|c:\\users\\francis ramirez\\source\\repos\\csbsol\\csb\\bucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C4F698-5C95-492A-88ED-1DAD8A2A0387}|Bucles\\Bucles.csproj|solutionrelative:bucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF4F77C1-B415-4095-8014-CD85E3B80012}|CacularSalario\\CacularSalario.csproj|c:\\users\\francis ramirez\\source\\repos\\csbsol\\csb\\cacularsalario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF4F77C1-B415-4095-8014-CD85E3B80012}|CacularSalario\\CacularSalario.csproj|solutionrelative:cacularsalario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 313,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,12 +35,38 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Francis Ramirez\\source\\repos\\csbsol\\CSB\\CacularSalario\\Program.cs",
+              "RelativeDocumentMoniker": "CacularSalario\\Program.cs",
+              "ToolTip": "C:\\Users\\Francis Ramirez\\source\\repos\\csbsol\\CSB\\CacularSalario\\Program.cs",
+              "RelativeToolTip": "CacularSalario\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:43:54.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Francis Ramirez\\source\\repos\\csbsol\\CSB\\Bucles\\Program.cs",
+              "RelativeDocumentMoniker": "Bucles\\Program.cs",
+              "ToolTip": "C:\\Users\\Francis Ramirez\\source\\repos\\csbsol\\CSB\\Bucles\\Program.cs",
+              "RelativeToolTip": "Bucles\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA+wDcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:29:20.738Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 227,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,19 +75,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Francis Ramirez\\source\\repos\\csbsol\\CSB\\CacularSalario\\Program.cs",
-              "RelativeDocumentMoniker": "CacularSalario\\Program.cs",
-              "ToolTip": "C:\\Users\\Francis Ramirez\\source\\repos\\csbsol\\CSB\\CacularSalario\\Program.cs",
-              "RelativeToolTip": "CacularSalario\\Program.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAswIIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T18:46:54.891Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,15 @@
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\bin\Debug\net8.0\Bucles.exe
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\bin\Debug\net8.0\Bucles.deps.json
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\bin\Debug\net8.0\Bucles.runtimeconfig.json
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\bin\Debug\net8.0\Bucles.dll
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\bin\Debug\net8.0\Bucles.pdb
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\obj\Debug\net8.0\Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\obj\Debug\net8.0\Bucles.AssemblyInfoInputs.cache
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\obj\Debug\net8.0\Bucles.AssemblyInfo.cs
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\obj\Debug\net8.0\Bucles.csproj.CoreCompileInputs.cache
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\obj\Debug\net8.0\Bucles.sourcelink.json
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\obj\Debug\net8.0\Bucles.dll
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\obj\Debug\net8.0\refint\Bucles.dll
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\obj\Debug\net8.0\Bucles.pdb
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\obj\Debug\net8.0\Bucles.genruntimeconfig.cache
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Bucles\obj\Debug\net8.0\ref\Bucles.dll
