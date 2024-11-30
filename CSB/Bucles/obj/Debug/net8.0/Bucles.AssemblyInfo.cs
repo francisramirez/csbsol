@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bucles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55d6841b19f85ff80a720927d26302635e6f9e6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+870e878ec0038aa00a7b79b171157e22f997d2e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bucles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bucles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

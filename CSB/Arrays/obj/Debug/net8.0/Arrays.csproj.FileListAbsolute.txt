@@ -1,0 +1,7 @@
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\Francis Ramirez\source\repos\csbsol\CSB\Arrays\obj\Debug\net8.0\Arrays.pdb

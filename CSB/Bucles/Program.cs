@@ -1,12 +1,39 @@
-﻿namespace Bucles
+﻿using Bucles.whiles;
+
+namespace Bucles
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            //Imprimir1al100();
-            //CalcularPromedio();
-            CalcularNotas();
+            // //Imprimir1al100();
+            // //CalcularPromedio();
+            //// CalcularNotas();
+
+            // CalcularNumerosPositivos numerosPositivos = new CalcularNumerosPositivos();
+
+            // //numerosPositivos.ImprimirNumerosPositivos();
+
+
+            // numerosPositivos.CalcularPromedio();
+
+            int[] myArray = { 1, 2, 3, 4, 5 };
+
+            int lenth = myArray.Length;
+
+            int[] reverse = new int[lenth];
+
+
+            //for (int i = 0; i < lenth; i++)
+            //{
+            //    reverse[lenth - i - 1] = myArray[i];
+            //}
+
+            //foreach (int ivalue in reverse)
+            //{
+            //    Console.WriteLine(ivalue);
+            //}
+
 
 
         }

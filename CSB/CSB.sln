@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CacularSalario", "CacularSalario\CacularSalario.csproj", "{AF4F77C1-B415-4095-8014-CD85E3B80012}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bucles", "Bucles\Bucles.csproj", "{77C4F698-5C95-492A-88ED-1DAD8A2A0387}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bucles", "Bucles\Bucles.csproj", "{77C4F698-5C95-492A-88ED-1DAD8A2A0387}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

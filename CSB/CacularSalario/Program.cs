@@ -1,12 +1,23 @@
 ﻿
 
+using CacularSalario.Class;
+using CacularSalario.Db;
+using CacularSalario.Exception;
+
 internal class Program
 {
+    static StudentDb db = new StudentDb();
 
     private static void Main(string[] args)
     {
         //CalcularSalario();
-        MayorDeDosNumeros();
+        //MayorDeDosNumeros();
+
+        CaptuarInfoStudent();
+        Console.WriteLine("-----------------------Estudiantes agregados-------------------");
+        ImprimirEstudiantes();
+       
+
     }
 
     /// <summary>
@@ -124,7 +135,7 @@ internal class Program
             return;
         }
 
-        string message = (num1 > num2) ? $"El mayor es: { num1 }" : $"El mayor es: { num2 }";
+        string message = (num1 > num2) ? $"El mayor es: {num1}" : $"El mayor es: {num2}";
 
         Console.WriteLine(message);
 
@@ -138,5 +149,74 @@ internal class Program
         //}
 
 
+    }
+    public static void CaptuarInfoStudent()
+    {
+        int cantidad = 0;
+        Student student;
+        string line = string.Empty;
+        try
+        {
+
+            Console.WriteLine("Ingrese la cantidad de estudiantes: ");
+            cantidad = Convert.ToInt32(Console.ReadLine());
+
+            int i = 1;
+
+            while (i <= cantidad)
+            {
+                student = new Student();
+                student.Id = i;
+
+                Console.WriteLine("Ingrese el nombre: ");
+                student.FirstName = Console.ReadLine();
+
+                Console.WriteLine("Ingrese el apellido: ");
+                student.LastName = Console.ReadLine();
+
+                Console.WriteLine("Ingrese el correo: ");
+                student.Email = Console.ReadLine();
+
+                Console.WriteLine("Ingrese el telfono: ");
+                student.Phone = Console.ReadLine();
+
+                Console.WriteLine("Ingrese el direccion: ");
+                student.Address = Console.ReadLine();
+
+                Console.WriteLine("Ingrese la fecha inscripcion: ");
+                student.EnrollmentDate = Convert.ToDateTime(Console.ReadLine());
+
+                Console.WriteLine("Ingrese el curso: ");
+                student.Curso = Console.ReadLine();
+
+                db.SaveStudent(student);
+                i++;
+                Console.Clear();
+            }
+        }
+        catch (StudentException sex)
+        {
+            Console.WriteLine ($"Error validando el estudiante: {sex.Message}");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error en el sistema: {ex.Message}");
+        }
+
+    }
+
+    public static void ImprimirEstudiantes()
+    {
+        var estudiantes = db.GetStudents();
+
+        foreach (var estudiante in estudiantes)
+        {
+            string nombreCompleto = string.Concat(estudiante.FirstName, " ", estudiante.LastName);
+
+            Console.WriteLine($"Id: {estudiante.Id} ");
+            Console.WriteLine($"Nombre: {nombreCompleto} ");
+            Console.WriteLine($"Curso: {estudiante.Curso} ");
+            Console.WriteLine($"Fecha inscripcion: {estudiante.EnrollmentDate} ");
+        }
     }
 }
